@@ -34,7 +34,7 @@ I’m looking to grow through opportunities that blend intelligence with systems
 **StarPath** — Graph-based actor connection finder  
 **MyShelf** — Book-sharing platform built with React + Firebase  
 **Minesweeper** — C++ game with custom engine and recursive flood-fill  
-*(Add links to featured repos here!)*
+*[github.com/Luffy28/StarPath.git](https://github.com/Luffy28/StarPath.git)*
 
 ---
 
