@@ -41,7 +41,7 @@ I’m looking to grow through opportunities that blend intelligence with systems
 ## 📫 How to Reach Me:
 📧 Email: lutfinawaz6@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/lutfiyahnawaz](https://www.linkedin.com/in/lutfiyahnawaz/)  
-🐱 GitHub: [github.com/lutfinawaz](https://github.com/Luffy28)
+🐱 GitHub: [github.com/Luffy28](https://github.com/Luffy28)
 
 
 ---
